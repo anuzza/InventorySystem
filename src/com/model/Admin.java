@@ -3,7 +3,7 @@ package com.model;
 import java.sql.Date;
 
 
-//Admin ho ma chahi
+
 public class Admin {
 
 	private int id;
