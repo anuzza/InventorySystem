@@ -1,5 +1,7 @@
 package com.model;
 
+
+//Product dai ho ma
 public class Product {
 	
 	private int id;
